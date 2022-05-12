@@ -1,2 +1,2 @@
 # NotificationApp
- it will notify user to take a break.
+ It will notify the user to take a break.
